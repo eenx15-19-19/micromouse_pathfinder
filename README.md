@@ -9,7 +9,7 @@ You must have the following libraries/packages installed.
 In order to run the program run the following commands:
 ```$
 python3 app.py
-``
+```
 
 ### Contributors
 This is the bachelor thesis group EENX-15-19-19 for year 2019.

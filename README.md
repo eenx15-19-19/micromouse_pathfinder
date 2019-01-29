@@ -12,3 +12,12 @@ $
 python3 app.py
 '''
 
+### Contributors
+This is the bachelor thesis group EENX-15-19-19 for year 2019.
+Memebers of the group are:
+  - Emil Grimheden
+  - Andreas Andersson
+  - Emma Rådahl
+  - Rebecca Svensson
+  - Ida Högström
+  - Isak Åslund
